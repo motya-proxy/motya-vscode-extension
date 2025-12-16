@@ -14,7 +14,7 @@
     "Linters",
     "Programming Languages"
   ],
-  "activationEvents":  [
+  "activationEvents": [
     "onLanguage:kdl"
   ],
   "keywords": [
