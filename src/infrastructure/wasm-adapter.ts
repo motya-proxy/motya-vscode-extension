@@ -1,6 +1,6 @@
 import { IValidator, ValidationError } from '../core/interfaces';
 
-import * as wasm from '../../pkg/motya_vscode'; 
+import * as wasm from '../../dist/motya_vscode'; 
 
 export class WasmAdapter implements IValidator {
     async validate(entryPoint: string, snapshot: Record<string, string>): Promise<ValidationError | null> {
