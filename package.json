@@ -3,6 +3,10 @@
   "displayName": "Motyasense",
   "description": "Motya Proxy extension for basic syntax checking of KDL configuration files.",
   "version": "0.0.1",
+  "publisher": "Motya",
+  "repository": {
+    "url": "https://github.com/motya-proxy/motya-vscode-extension"
+  },
   "engines": {
     "vscode": "^1.106.1"
   },
